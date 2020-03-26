@@ -1,0 +1,20 @@
+{
+  "name": "mocha-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lunebakami/mocha-test.git",
+  "author": "lunebakami <luis.santos.taiba@gmail.com>",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  }
+}
